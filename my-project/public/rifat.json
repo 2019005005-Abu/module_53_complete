@@ -1,0 +1,18 @@
+ [
+    {  "id":1,
+      "membershipType": "Basic",
+      "price": 29.99,
+      "features": ["f_1","f2","f3","f_4"]
+    },
+    { "id":2,
+      "membershipType": "Premium",
+      "price": 49.99,
+      "features": ["f_5","f6","f7","f_8"]
+    },
+    { "id":3,
+      "membershipType": "VIP",
+      "price": 99.99,
+      "features": ["f_9","f10","f11","f_12"]
+    }
+  ]
+  
